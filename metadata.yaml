@@ -1,0 +1,27 @@
+_repo: Young-Visitor-to-Mars_60133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elam, Richard M. (Richard Mace)
+    aliases:
+    - Elam, Richard Mace, Jr.
+    - Elam, Richard Mace
+    birthdate: 1920
+    deathdate: 2013
+    gutenberg_agent_id: '47380'
+    url: http://www.gutenberg.org/2009/agents/47380
+description: ''
+gutenberg_issued: '2019-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Young Visitor to Mars
+url: http://www.gutenberg.org/ebooks/60133
